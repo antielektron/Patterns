@@ -1,3 +1,3 @@
-# SimonSays
+# Patterns
 
-A very simple simon says web implementation
+A very simple memorizing game
